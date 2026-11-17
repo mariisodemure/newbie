@@ -1,0 +1,8 @@
+dependencies:
+   -  manifest_updates:
+         filters:
+            -  name: .*
+               versions: L.Y.Y
+      path: /
+      type: php
+version: 2
